@@ -46,10 +46,10 @@ export default function LoginPage() {
           Silakan login untuk melanjutkan ke dashboard
         </p>
 
-        {/* Input Email */}
+        {/* Input user id */}
         <div className="mb-4">
           <label className="block text-gray-700 font-medium mb-2">
-            Email / User ID
+            User ID
           </label>
           <input
             type="text"

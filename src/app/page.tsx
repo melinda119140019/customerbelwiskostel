@@ -9,7 +9,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-indigo-50 to-white flex flex-col items-center justify-center px-6 py-12">
       {/* Logo */}
       <Image
-        src="/next.svg"
+        src="/logo.png"
         alt="Logo"
         width={120}
         height={40}
@@ -21,7 +21,7 @@ export default function Home() {
         Selamat Datang di <span className="text-indigo-600">ITR Home Stay</span>
       </h1>
       <p className="text-gray-500 text-center max-w-xl mb-8">
-        Pesan kamar anda sekarang juga dan nikmati kenyamanan tinggal dihome stay milik kami
+        Pesan kamar anda sekarang juga dan nikmati kenyamanan tinggal di indekos dan homestay milik kami
       </p>
 
       {/* Tombol */}
