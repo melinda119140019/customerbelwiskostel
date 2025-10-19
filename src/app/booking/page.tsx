@@ -106,7 +106,7 @@ export default function GuestPage() {
                 </div>
 
                 <p className="text-indigo-600 font-bold text-lg mb-3">
-                    Rp {room.price.toLocaleString("id-ID")} / bulan
+                    Rp {room.price.toLocaleString("id-ID")} / hari
                 </p>
 
                 <div className="mb-3">
